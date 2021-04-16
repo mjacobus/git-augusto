@@ -37,7 +37,6 @@ git push origin master # atualiza o github
 git pull origin master # busca dados o github
 ```
 
-
 ## O que eu fiz
 
 ```
