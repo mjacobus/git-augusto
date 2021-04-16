@@ -49,3 +49,14 @@ git remote add origin git@github.com:mjacobus/git-augusto.git
 ```
 git clone git@github.com:mjacobus/git-augusto.git
 ```
+
+## Trabalhando com branches
+
+```
+git branch nome-do-branch      # cria um branch de nome nome-do-branch
+git checkout nome-do-branch    # troca de branch para nome-do-branch
+git branch                     # mostra um asterisco no lado do branch que eu estou
+git branch -a                  # mostra todos os branches, inclusive os do remote (github)
+git checkout master            # volta par o branch master
+git push origin nome-do-branch # faz o push do branch nome-do-branch
+```
